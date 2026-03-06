@@ -39,4 +39,4 @@ Download the Used car Data.xlsx file from this repository.
 3) Use the interactive slicers to filter data by car make, model, or registered state.
 
 
-![Dashboard Screenshot]("Screenshot (109).png")
+[Dashboard Screenshot 1]("Screenshot(109)png")
