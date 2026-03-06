@@ -29,7 +29,7 @@ Used car Data.xlsx: The primary Excel workbook containing raw data, cleaning ste
 
 Screenshots/: Visual gallery showcasing the dashboard and key analytical charts.
 
-#💡 How to Use
+# 💡 How to Use
 Download the Used car Data.xlsx file from this repository.
 
 Open the file in Microsoft Excel.
