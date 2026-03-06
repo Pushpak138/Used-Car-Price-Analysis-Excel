@@ -40,3 +40,7 @@ Download the Used car Data.xlsx file from this repository.
 
 
 [Dashboard Screenshot 1]("Screenshot(109)png")
+
+[Dashboard Screenshot 1]("Screenshot(110)png")
+
+[Dashboard Screenshot 1]("Screenshot(111)png")
